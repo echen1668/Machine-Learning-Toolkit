@@ -8,4 +8,4 @@ Also note at some of the features in this toolkit may not work with some dataset
 Also, some ML algorthims may work with some datasets depending on how it is structured.
 Some models may take a long time to complete training and hyperparamter tune.
 
-When the model is finished training and tested, it will produce the model, predictions, and probablites saved in .joblib files. It will also produce the cross valadtion results and accuracy in a textfile for the binary classifcation toolkit and the classifation report and accuracy in a textfile for the multi-lable classifcation toolkit. For the binary classifcation toolkit, you will also get a png file of the AUC Scores and the optional SHAP values if chosen.
+When the model is finished training and tested, it will produce the model, predictions, and probablites saved in .joblib files. It will also produce the cross valadtion results and accuracy in a textfile for the binary classifcation toolkit and the classifation report and accuracy in a textfile for the multi-label classifcation toolkit. For the binary classifcation toolkit, you will also get a .png file of the AUC Scores and the optional SHAP values if chosen.
