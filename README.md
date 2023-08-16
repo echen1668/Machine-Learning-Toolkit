@@ -4,10 +4,10 @@ Easy to use toolkit to do machine learning on any datasets (csv/excel). Will giv
 PLEASE RUN THE FILE: 'Eric Chen's ML Toolkit.ipynb' as it is the main file.
 
 # IMPORTANT:
-The dataset must be in the same directory as the code file. All features/varibles must be all ajacent to each other in a sequential row. The toolkit will ask for the feature both in the front and back end of that row.
+The dataset must be in the same directory as the code files. All features/varibles must be all ajacent to each other in a sequential row. The toolkit will ask for the feature both in the front and back end of that row.
 
-Also note at some of the features in this toolkit may not work with some datasets depending on how it is structured. 
+Also note at some of the features in this toolkit may be imcompatible with some datasets depending on how it is structured. 
 Also, some ML algorthims may work with some datasets depending on how it is structured.
-Some models may take a long time to complete training and hyperparamter tune.
+Some models may take a long time to complete training and hyperparamter tuning.
 
 When the model is finished training and tested, it will produce the model, predictions, and probablites saved in .joblib files. It will also produce the cross valadtion results and accuracy in a textfile for the binary classifcation toolkit and the classifation report and accuracy in a textfile for the multi-label classifcation toolkit. For the binary classifcation toolkit, you will also get a .png file of the AUC Scores and the optional SHAP values if chosen.
