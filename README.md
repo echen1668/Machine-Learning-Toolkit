@@ -1,5 +1,7 @@
 # Machine-Learning-Toolkit
-Easy to use toolkit to do machine learning on any datasets (csv/excel). Will give interface to set up the ML model and data preprocessing. Can do choose a variety set of ML algorithms. There are three versions, one for binary classifcation problems, one for regression (continous numerical label) problems, and one for multi-label classifcation problems.
+Easy to use toolkit to do machine learning on any datasets (csv/excel). Will give interface to set up the ML model and data preprocessing. Can do choose a variety set of ML algorithms. There are three versions, one for binary classifcation problems, one for regression (continous numerical label) problems, and one for multi-label classifcation problems. Program will allow you to choose which on to run. 
+
+PLEASE RUN THE FILE: 'Eric Chen's ML Toolkit.ipynb' as it is the main file.
 
 # IMPORTANT:
 The dataset must be in the same directory as the code file. All features/varibles must be all ajacent to each other in a sequential row. The toolkit will ask for the feature both in the front and back end of that row.
